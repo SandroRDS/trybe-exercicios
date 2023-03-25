@@ -22,8 +22,8 @@
 #### __Seção 2: [Introdução à HTML & CSS](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css)__
 - [X] Dia 2.1 - [HTML & CSS - Estruturas da página](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-01-html-e-css-estruturas-de-pagina)
 - [X] Dia 2.2 - [HTML & CSS - Primeiros passos em CSS](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-02-html-e-css-primeiros-passos-em-css)
-- [ ] Dia 2.3 - [HTML & CSS - Seletores e posicionamento](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-03-html-e-css-seletores-e-posicionamento)
-- [ ] Dia 2.4 - [HTML Semântico](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-04-html-semantico)
+- [X] Dia 2.3 - [HTML & CSS - Seletores e posicionamento](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-03-html-e-css-seletores-e-posicionamento)
+- [X] Dia 2.4 - [HTML Semântico](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-04-html-semantico)
 - [ ] Dia 2.5 - [Projeto - Lessons Learned](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-05-projeto-lessons-learned)
 
 #### __Seção 3: [Introdução à JavaScript]()__
