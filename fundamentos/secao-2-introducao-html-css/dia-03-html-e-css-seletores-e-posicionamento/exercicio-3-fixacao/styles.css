@@ -1,0 +1,24 @@
+h1, p
+{
+    text-align: center;
+}
+
+ul
+{
+    list-style: none;
+}
+
+ul:hover
+{
+    background-color: green;
+}
+
+li:hover
+{
+    cursor: pointer;
+}
+
+li:active
+{
+    font-family: 'arial';
+}
