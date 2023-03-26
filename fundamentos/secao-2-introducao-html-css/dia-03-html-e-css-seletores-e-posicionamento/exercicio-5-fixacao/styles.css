@@ -1,0 +1,71 @@
+h1, h2, h3
+{
+    color: red;
+}
+
+h1 em, h2 em, h3 em
+{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+ol li
+{
+    background-color: yellow;
+    font-size: 20px;
+}
+
+ol li em
+{
+    font-weight: bold;
+}
+
+ol li:nth-child(even)
+{
+    color: green;
+}
+
+ol li:nth-child(odd)
+{
+    text-transform: uppercase;
+}
+
+.linguagens li:nth-child(-n+3)
+{
+    color: blue;
+}
+
+.pink
+{
+    background-color: pink;
+}
+
+.aliados a:hover
+{
+    font-weight: bold;
+}
+
+.aliados li:nth-child(1) a:hover
+{
+    background-color: orange;
+}
+
+.aliados li:nth-child(2) a:hover
+{
+    background-color: green;
+}
+
+.aliados li:nth-child(3) a:hover
+{
+    background-color: black;
+}
+
+.aliados li:nth-child(4) a:hover
+{
+    background-color: yellow;
+}
+
+.aliados li:nth-child(5) a:hover
+{
+    background-color: green;
+}
