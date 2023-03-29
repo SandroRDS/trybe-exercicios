@@ -1,0 +1,5 @@
+# Módulo 1 - Seção 2: Introdução à HTML & CSS
+
+Nesta seção, foram introduzidos conteúdos de extrema importância para o Desenvolvimento Web. Dentre eles, os principais foram as bases do funcionamento da Internet e seus protocolos e duas das linguagens mais importantes da Web: HTML (HyperText Markup Language) e CSS (Cascading Style Sheets). É a partir delas que a Web se fundamenta, pois é a partir do HTML que conseguimos estruturar conteúdo dentro de uma página e, através do CSS, aplicar melhorias no layout, estilização, organização do conteúdo, experiência do usuário, entre diversas outras características que foram de extrema importância para a popularização da web. 
+
+Sendo assim, para praticar todos esses conceitos e ferramentas aprendidas, além dos exercícios diários, realizamos o exercício de projeto "Exercise Semantic HTML", referente ao dia 2.4, e o projeto avaliativo "Lessons Learned", referente ao dia 2.5 (Dia de Projeto da seção 2). A gravação da interface de cada um está disponível na respectiva pasta de seu dia.
