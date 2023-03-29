@@ -24,11 +24,11 @@
 - [X] Dia 2.2 - [HTML & CSS - Primeiros passos em CSS](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-02-html-e-css-primeiros-passos-em-css)
 - [X] Dia 2.3 - [HTML & CSS - Seletores e posicionamento](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-03-html-e-css-seletores-e-posicionamento)
 - [X] Dia 2.4 - [HTML Semântico](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-04-html-semantico)
-- [ ] Dia 2.5 - [Projeto - Lessons Learned](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-05-projeto-lessons-learned)
+- [X] Dia 2.5 - [Projeto - Lessons Learned](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-2-introducao-html-css/dia-05-projeto-lessons-learned)
 
-#### __Seção 3: [Introdução à JavaScript]()__
-- [ ] Dia 3.1 - [JavaScript - Primeiros passos]()
-- [ ] Dia 3.2 - [JavaScript - Array e loop For]()
+#### __Seção 3: [Introdução à JavaScript](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript)__
+- [X] Dia 3.1 - [JavaScript - Primeiros passos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-01-javascript-primeiros-passos)
+- [X] Dia 3.2 - [JavaScript - Array e loop For](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-02-javascript-array-e-loop)
 - [ ] Dia 3.3 - [JavaScript - Funções]()
 - [ ] Dia 3.4 - [JavaScript - Objetos]()
 - [ ] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
