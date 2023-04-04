@@ -29,9 +29,9 @@
 #### __Seção 3: [Introdução à JavaScript](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript)__
 - [X] Dia 3.1 - [JavaScript - Primeiros passos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-01-javascript-primeiros-passos)
 - [X] Dia 3.2 - [JavaScript - Array e loop For](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-02-javascript-array-e-loop)
-- [ ] Dia 3.3 - [JavaScript - Funções]()
-- [ ] Dia 3.4 - [JavaScript - Objetos]()
-- [ ] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
+- [X] Dia 3.3 - [JavaScript - Funções]()
+- [X] Dia 3.4 - [JavaScript - Objetos]()
+- [X] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
 - [ ] Dia 3.6 - [Projeto - Playground Functions]()
 
 #### __Seção 4: [JavaScript: DOM, Eventos e Web Storage]()__
