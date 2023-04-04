@@ -1,0 +1,5 @@
+# Módulo 1 - Dia 3.3: JavaScript - Funções
+
+> Data: 30/03/2023
+
+Hoje abordamos sobre funções, aprendendo para que servem, como funcionam e como declará-las. As funções são um dos conceitos mais importantes na programação no que diz respeito à acoplamento de código, organização e diminuição de complexidade ciclomática, pois é através delas que se faz possível dividir o código em diversos pedaços com micro-tarefas específicas, onde cada função é responsável por desempenhar sua respectiva micro-tarefa. Um conceito importante a se destacar, o qual é citado pelo "Uncle Bob" em seu livro "Clean Code", é que quanto menor e mais focada em uma tarefa uma função for, mais legível e fácil de manipular será o seu código. Isso ocorre pois funções com múltiplas tarefas são difíceis de compreender qual exatamente é a finalidade dela e é extremamente mais simples alterar/corrigir um bloco de código isolado com um determinado retorno esperado do que dezenas de linhas encadiadas com estruturas aninhadas umas nas outras, de forma que alterar uma mísera linha impacta o funcionamento do código inteiro.
