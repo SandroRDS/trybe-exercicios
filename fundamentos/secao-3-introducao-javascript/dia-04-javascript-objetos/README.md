@@ -1,0 +1,5 @@
+# Módulo 1 - Dia 3.4: JavaScript - Objetos
+
+> Data: 03/04/2023
+
+Hoje abordamos sobre o tipo de dados Objeto, abordando seu funcionamento, como declará-los e suas utilidades. Os objetos são uma estrutura de dados muito comum na programação, tendo como finalidade agrupar dados de forma mais organizada e lógica, enchergando cada dado como uma "propriedade" ou "atributo" desse objeto e, por meio dele, podemos executar diversas "ações" (métodos). Nesse primeiro momento, exploramos o uso de objetos para agrupar dados em formato de propriedades, estratégias para iterar objetos, através da estrutura for/in e for/of aliadas aos métodos do Objeto Global 'Object' (keys, values, entries, assign e create); e as formas de manipulá-los: notação por ponto (dot-notation) e notação por colchetes. Além do estudo da teoria que envolve o aprendizado de objetos, praticamos a utilização dos mesmos através de uma extensa bateria de exercícios que podem ser acessados nesta pasta.
