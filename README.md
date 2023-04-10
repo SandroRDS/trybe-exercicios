@@ -30,9 +30,9 @@
 - [X] Dia 3.1 - [JavaScript - Primeiros passos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-01-javascript-primeiros-passos)
 - [X] Dia 3.2 - [JavaScript - Array e loop For](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-02-javascript-array-e-loop)
 - [X] Dia 3.3 - [JavaScript - Funções](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-03-javascript-funcoes)
-- [X] Dia 3.4 - [JavaScript - Objetos]()
-- [X] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
-- [ ] Dia 3.6 - [Projeto - Playground Functions]()
+- [X] Dia 3.4 - [JavaScript - Objetos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-04-javascript-objetos)
+- [X] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-05-javascript-es6-let-const-arrow-functions-e-template-literals)
+- [X] Dia 3.6 - [Projeto - Playground Functions](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-06-07-projeto-playground-functions)
 
 #### __Seção 4: [JavaScript: DOM, Eventos e Web Storage]()__
 - [ ] Dia 4.1 - [JavaScript - DOM e seletores]()
