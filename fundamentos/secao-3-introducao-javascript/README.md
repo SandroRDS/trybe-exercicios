@@ -1,0 +1,3 @@
+# Módulo 1 - Seção 3: Introdução à JavaScript
+
+Nesta seção, revisamos inicialmente os conceitos básicos de lógica de programação e da linguagem JavaScript abordados no curso introdutório, porém, nesse momento de forma mais aprofundada. Posteriormente, fomos introduzidos a alguns outros conceitos de extrema importância, como objetos, arrow functions, escopo de código, complexidade ciclomática, métodos nativos, entre outros. No projeto da seção (Playground Functions), trabalhamos na criação de diversas funções requisitadas utilizando todos os conceitos anteriormente citados que foram absorvidos ao longo da seção.
