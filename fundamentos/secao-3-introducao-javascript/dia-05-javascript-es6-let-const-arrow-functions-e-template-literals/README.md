@@ -1,4 +1,4 @@
-# Módulo 1 - Dia 3.4: JavaScript ES6 - let, const, arrow functions e template literals
+# Módulo 1 - Dia 3.5: JavaScript ES6 - let, const, arrow functions e template literals
 
 > Data: 04/04/2023
 
