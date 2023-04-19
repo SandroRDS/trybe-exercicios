@@ -1,0 +1,7 @@
+# Módulo 1 - Dia 4.3: JavaScript - Eventos
+
+> Data: 12/04/2023
+
+Hoje abordamos sobre um dos recursos mais importantes para o Front-End com JavaScript: os eventos. Eles são um dos recursos mais utilizados do JavaScript e boa parte da fama da linguagem se deve a esse recurso, pois é a partir dos eventos do JavaScript que podemos dinamizar totalmente as páginas web, realizando alguma determinada funcionalidade sempre que alguma determinada ação ocorrer.
+
+Todos os elementos presentes na página, inclusive a própria janela (window), são passíveis de disparar eventos, tendo alguns eventos que só ocorrem em elementos específico (como o evento 'change', que só ocorre nos elementos input, select e textarea). Existem algumas maneiras de relacionar um evento de um elemento a uma função, que será executada no momento que o evento ocorrer, porém, a forma mais recomendada é através do método __'addEventListener()'__, o qual é responsável por adicionar no elemento HTML um 'escutador' de evento. Esse escutador é composto, basicamente, por 2 informações que são passadas por parâmetro para o __'addEventListener()'__, que são: o nome do evento (click, dblclick, mouseover, mouseout, change, keydown, entre outros...) e a função que será executada no momento que o evento especificado ocorrer.
