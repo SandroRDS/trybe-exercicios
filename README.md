@@ -34,12 +34,12 @@
 - [X] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-05-javascript-es6-let-const-arrow-functions-e-template-literals)
 - [X] Dia 3.6 - [Projeto - Playground Functions](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-javascript/dia-06-07-projeto-playground-functions)
 
-#### __Seção 4: [JavaScript: DOM, Eventos e Web Storage]()__
-- [ ] Dia 4.1 - [JavaScript - DOM e seletores]()
-- [ ] Dia 4.2 - [JavaScript - Trabalhando com elementos]()
-- [ ] Dia 4.3 - [JavaScript - Eventos]()
-- [ ] Dia 4.4 - [JavaScript - Web Storage]()
-- [ ] Dia 4.5 - [Projeto - Arte com Pixels]()
+#### __Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage)__
+- [X] Dia 4.1 - [JavaScript - DOM e seletores](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-01-javascript-dom-e-seletores)
+- [X] Dia 4.2 - [JavaScript - Trabalhando com elementos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-02-javascript-trabalhando-com-elementos)
+- [X] Dia 4.3 - [JavaScript - Eventos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-03-javascript-eventos)
+- [X] Dia 4.4 - [JavaScript - Web Storage](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-04-javascript-web-storage)
+- [X] Dia 4.5 - [Projeto - Arte com Pixels](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-05-projeto-arte-com-pixels)
 - [ ] Dia 4.6 - [Projeto Bônus]()
 
 #### __Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo]()__
