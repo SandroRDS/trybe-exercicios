@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="dist/css/DatePickerX.min.css">
+  <link rel="stylesheet" href="style.css">
+  
+  <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js" defer></script>
+  <script src="dist/js/DatePickerX.min.js" defer></script>
+  <script src="script.js" defer></script>
+  
+  <title>Formulario-TrybeTrip</title>
+</head>
+<body>
+  <header class="container-fluid d-flex justify-content-center p-4">
+    <h1 id="title" class="text-bg-primary p-4 rounded shadow-lg">Concorra à Viagem dos seus sonhos com a TrybeTrip</h1>
+  </header>
+  <main class="container-fluid d-flex flex-column align-items-center p-5">
+    <form id="main-form" class="border rounded p-4 bg-body shadow">
+      <fieldset class="input-group mb-3">
+        <label class="input-group-text">Nome Completo:</label>
+        <input type="text" class="form-control" placeholder="Insira seu nome completo" name="fullName" id="fullName">
+        <i class="bi bi-person-circle input-group-text"></i>
+      </fieldset>
+
+      <fieldset class="input-group mb-3">
+        <label class="input-group-text">Endereço de e-mail:</label>
+        <input type="email" name="email" class="form-control" placeholder="Insira seu email" id="email">
+        <span class="input-group-text">@</span>
+      </fieldset>
+
+      <fieldset class="container-fluid mb-3" id="radio-group">
+        <h2 class="text-center">Destino Preferido</h2>
+        <div class="d-flex justify-content-evenly flex-wrap p-4" style="gap: 20px;">
+          <input type="radio" name="destinations" id="dest-1" class="radio d-none">
+          <label for="dest-1" class="card">
+            <img src="images/city.jpg" style="width: 200px; height: 120px;" alt="opcao cidade" class="card-img-top">
+            <div class="card-body">
+              <p class="card-text text-center">Cidade</p>
+            </div>
+          </label>
+
+          <input type="radio" name="destinations" id="dest-2" class="radio d-none">
+          <label for="dest-2" class="card">
+            <img src="images/rural.jpg" style="width: 200px; height: 120px;" alt="opcao campo" class="card-img-top">
+            <div class="card-body">
+              <p class="card-text text-center">Campo</p>
+            </div>
+          </label>
+          
+          <input type="radio" name="destinations" id="dest-3" class="radio d-none">
+          <label for="dest-3" class="card">
+            <img src="images/praia.jpg" style="width: 200px; height: 120px;" alt="opcao praia" class="card-img-top">
+            <div class="card-body">
+              <p class="card-text text-center">Praia</p>
+            </div>
+          </label>
+          
+          <input type="radio" name="destinations" id="dest-4" class="radio d-none">
+          <label for="dest-4" class="card">
+            <img src="images/montanha.jpg" style="width: 200px; height: 120px;" alt="opcao montanha" class="card-img-top">
+            <div class="card-body">
+              <p class="card-text text-center">Montanha</p>
+            </div>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset class="container-fluid text-center mb-3">
+        <p>Por que você deveria ser a pessoa desenvolvedora escolhida pelo concurso Trybe Travel ?</p>
+        <div class="form-floating">
+          <textarea style="resize: none; height: 120px;" class="form-control" placeholder="Digite sua resposta vencedora aqui" id="question"></textarea>
+          <label for="question">Digite sua resposta vencedora aqui</label>
+        </div>
+      </fieldset>
+
+      <fieldset class="d-flex align-items-start">
+        <p class="me-2">Qual a melhor data para realizar sua viagem ?</p>
+        <input type="text" id="date">
+      </fieldset>
+
+      <fieldset class="form-check mb-2">
+        <label class="form-check-label" style="cursor: pointer;"><input type="checkbox" class="form-check-input" id="promo">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe Travel.</label>
+      </fieldset>
+
+      <fieldset class="form-check mb-3">
+        <label class="form-check-label" style="cursor: pointer;"><input class="form-check-input" type="checkbox" id="agreement">Concordo que imagens de minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+      </fieldset>
+      
+      <fieldset class="container-fluid text-center">
+        <button class="btn btn-success me-3" type="submit" id="submit-btn">Participar do concurso Trybe-Trip</button>
+        <button class="btn btn-danger" type="reset" id="clear-btn">Apagar informações</button>
+      </fieldset>
+    </form>
+  </main>
+</body>
+</html>
