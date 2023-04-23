@@ -40,12 +40,12 @@
 - [X] Dia 4.3 - [JavaScript - Eventos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-03-javascript-eventos)
 - [X] Dia 4.4 - [JavaScript - Web Storage](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-04-javascript-web-storage)
 - [X] Dia 4.5 - [Projeto - Arte com Pixels](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-4-javascript-dom-eventos-e-web-storage/dia-05-projeto-arte-com-pixels)
-- [ ] Dia 4.6 - [Projeto Bônus]()
+- [X] Dia 4.6 - [Projeto Bônus]()
 
-#### __Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo]()__
-- [ ] Dia 5.1 - [HTML & CSS - Forms]()
-- [ ] Dia 5.2 - [Bibliotecas JavaScript e Frameworks CSS]()
-- [ ] Dia 5.3 - [CSS Flexbox - Parte 1]()
+#### __Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo)__
+- [X] Dia 5.1 - [HTML & CSS - Forms](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-01-html-css-forms)
+- [X] Dia 5.2 - [Bibliotecas JavaScript e Frameworks CSS](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-02-bibliotecas-javascript-e-frameworks-css)
+- [X] Dia 5.3 - [CSS Flexbox - Parte 1](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-03-css-flexbox-parte-1)
 - [ ] Dia 5.4 - [CSS Flexbox - Parte 2]()
 - [ ] Dia 5.5 - [CSS Responsivo - Mobile First]()
 - [ ] Dia 5.6 - [Projeto - Trybewarts]()
