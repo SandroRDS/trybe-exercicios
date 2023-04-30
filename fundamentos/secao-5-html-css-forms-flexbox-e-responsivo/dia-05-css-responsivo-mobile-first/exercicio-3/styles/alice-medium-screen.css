@@ -1,0 +1,66 @@
+.cabecalho__titulo {
+  font-size: 2.5em;
+}
+
+.cabecalho__lista {
+  justify-content: center;
+  gap: 50px;
+}
+
+.cabecalho__item {
+  font-size: 2em;
+}
+
+.cabecalho__item__icon {
+  width: 30px;
+}
+
+.main-content p {
+  width: 60%;
+  position: relative;
+}
+
+.aside-image {
+  display: block;
+  width: 90px;
+
+  position: absolute;
+}
+
+.relogio {
+  height: 150px;
+  top: 10px;
+  right: calc(-60px - 10%);
+  transform-origin: bottom center;
+  transform: rotateZ(45deg);
+
+  filter: drop-shadow(4px 4px 1px #00000081);
+}
+
+.espelho {
+  top: 50px;
+  left: calc(-70px - 10%);
+  transform-origin: bottom center;
+  transform: skewX(20deg);
+
+  filter: drop-shadow(-5px 4px 1px #00000081);
+}
+
+.poltrona {
+  top: 5%;
+  right: calc(-150px - 10%);
+  transform-origin: bottom center;
+  transform: skew(40deg, 110deg);
+
+  filter: drop-shadow(-5px 4px 1px #00000081);
+}
+
+.chapeu {
+  width: 100px;
+  top: 5%;
+  left: calc(-100px - 10%);
+  transform-origin: bottom center;
+  transform: rotateZ(180deg);
+
+  filter: drop-shadow(-5px 4px 1px #00000081);
+}

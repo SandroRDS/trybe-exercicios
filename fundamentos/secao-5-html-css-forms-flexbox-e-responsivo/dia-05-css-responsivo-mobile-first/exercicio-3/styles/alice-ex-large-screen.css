@@ -1,0 +1,49 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.cabecalho {
+  grid-column: span 2;
+
+  display: grid;
+  grid-template-columns: 1fr auto;
+  justify-items: center;
+}
+
+.aside-two {
+  justify-content: center;
+}
+
+.chapter-image {
+  width: 50%;
+}
+
+.main-content {
+  grid-column: span 2;
+}
+
+.main-content p {
+  width: 50%;
+}
+
+.relogio {
+  right: calc(-100px - 10%);
+}
+
+.espelho {
+  left: calc(-150px - 10%);
+}
+
+.poltrona {
+  right: calc(-180px - 10%);
+}
+
+.chapeu {
+  left: calc(-160px - 10%);
+}
+
+.rodape {
+  grid-column: span 2;
+}
