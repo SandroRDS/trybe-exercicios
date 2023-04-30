@@ -1,0 +1,3 @@
+# Módulo 1 - Seção 5: HTML e CSS - Forms, Flexbox e Responsivo
+
+Nesta seção, abordamos importantes recursos mais avançados do HTML e CSS, que foram: produção de ***Formulários HTML***, possibilitando enviar dados para um endpoint por meio de requisição HTTP; construção de layouts flexíveis e mais complexos com ***Flexbox***; e adaptação de estilos a partir do tipo de visualização da página e tamanho do dispositivo (Responsividade) com ***Media Queries***.
