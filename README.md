@@ -46,13 +46,13 @@
 - [X] Dia 5.1 - [HTML & CSS - Forms](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-01-html-css-forms)
 - [X] Dia 5.2 - [Bibliotecas JavaScript e Frameworks CSS](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-02-bibliotecas-javascript-e-frameworks-css)
 - [X] Dia 5.3 - [CSS Flexbox - Parte 1](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-03-css-flexbox-parte-1)
-- [ ] Dia 5.4 - [CSS Flexbox - Parte 2]()
-- [ ] Dia 5.5 - [CSS Responsivo - Mobile First]()
-- [ ] Dia 5.6 - [Projeto - Trybewarts]()
+- [X] Dia 5.4 - [CSS Flexbox - Parte 2](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-04-css-flexbox-parte-2)
+- [X] Dia 5.5 - [Responsividade](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-05-responsividade)
+- [X] Dia 5.6 - [Projeto - Trybewarts](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-5-html-css-forms-flexbox-e-responsivo/dia-06-projeto-trybewarts)
 
-#### __Seção 6: [Introdução à JavaScript ES6 e Testes Unitários]()__
-- [ ] Dia 6.1 - [Fluxo de exceções e manipulação de objetos]()
-- [ ] Dia 6.2 - [Primeiros passos em Jest]()
+#### __Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios)__
+- [X] Dia 6.1 - [Fluxo de exceções e manipulação de objetos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-01-fluxo-de-excessoes-e-manipulacao-de-objetos)
+- [X] Dia 6.2 - [Primeiros passos em Jest](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-02-primeiros-passos-em-jest)
 - [ ] Dia 6.3 - [Matchers e cobertura de código]()
 - [ ] Dia 6.4 - [Projeto - JavaScript Testes Unitários]()
 
