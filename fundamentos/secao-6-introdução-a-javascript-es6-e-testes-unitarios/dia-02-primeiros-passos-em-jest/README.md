@@ -1,0 +1,5 @@
+# Módulo 1 - Dia 6.2: Primeiros passos em Jest
+
+> Data: 28/04/2023
+
+Hoje fomos introduzidos ao assunto "Qualidade de Código", abordando o que são testes (focando em testes unitários), sua importância, o que é a metodologia TDD e o Framework Jest, um dos frameworks mais utilizados atualmente para realizar testes unitários em JavaScript. Através desse conteúdo, pudemos ter uma visão geral da importância do uso de testes no mercado de trabalho, uma vez que é inviável testar manualmente um produto de software, principalmente pelo fato do nível de complexidade da aplicação escalar exponencialmente e tornar a testagem manual uma tarefa extremanente extenuante, demorada e altamente sucetível a erros. Além disso, aprendemos a escrever nossos primeiros testes com o Framework Jest e criar relatórios de testes utilizando as funções describe, test, expect e os principais matchers que o framework disponibiliza.
