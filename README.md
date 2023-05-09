@@ -53,15 +53,15 @@
 #### __Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios)__
 - [X] Dia 6.1 - [Fluxo de exceções e manipulação de objetos](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-01-fluxo-de-excessoes-e-manipulacao-de-objetos)
 - [X] Dia 6.2 - [Primeiros passos em Jest](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-02-primeiros-passos-em-jest)
-- [ ] Dia 6.3 - [Matchers e cobertura de código]()
-- [ ] Dia 6.4 - [Projeto - JavaScript Testes Unitários]()
+- [X] Dia 6.3 - [Matchers e cobertura de código](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo)
+- [X] Dia 6.4 - [Projeto - JavaScript Testes Unitários](https://github.com/SandroRDS/trybe-exercicios/tree/main/fundamentos/secao-6-introducao-a-javascript-es6-e-testes-unitarios/dia-04-projeto-javascript-testes-unitarios)
 
 #### __Seção 7: [Higher Order Functions do JavaScript ES6]()__
-- [ ] Dia 7.1 - [Introdução a Higher Order Functions]()
-- [ ] Dia 7.2 - [Higher Order Functions - sort e map]()
-- [ ] Dia 7.3 - [Higher Order Functions - filter e reduce]()
-- [ ] Dia 7.4 - [JavaScript ES6 - spread operator, rest parameters e object destructuring]()
-- [ ] Dia 7.5 - [JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()
+- [X] Dia 7.1 - [Introdução a Higher Order Functions]()
+- [X] Dia 7.2 - [Higher Order Functions - sort e map]()
+- [X] Dia 7.3 - [Higher Order Functions - filter e reduce]()
+- [] Dia 7.4 - [JavaScript ES6 - spread operator, rest parameters e object destructuring]()
+- [] Dia 7.5 - [JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()
 - [ ] Dia 7.6 - [Projeto - Zoo functions]()
 
 <h2 id='frontend'>🎨 Desenvolvimento Front-End</h2>
